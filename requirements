@@ -1,0 +1,11 @@
+accelerate
+jupyter
+langchain
+langchain-community
+langchain-huggingface
+langgraph
+llama-index
+protobuf
+sentencepiece
+transformers
+wikipedia
